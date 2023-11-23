@@ -13,7 +13,7 @@ export const Navbar=()=>{
         <>
         <div className="navbar">
         <div className="leftSide" id={openLinks?"close":"open"}>
-            <img src={logo}  />
+            <img src={logo} alt="" />
             <div className="hiddenLinks">
                 <Link to="/">Home</Link>
                 <Link to="/menu">Menu</Link>
