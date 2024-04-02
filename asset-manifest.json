@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/foodWeb/static/css/main.42413f63.css",
+    "main.js": "/foodWeb/static/js/main.5f4fade1.js",
+    "static/media/pizza_background.jpg": "/foodWeb/static/media/pizza_background.f6100e4366fdfa04d0f9.jpg",
+    "static/media/Schezwan_Margherita.jpg": "/foodWeb/static/media/Schezwan_Margherita.543a464de32785bedb61.jpg",
+    "static/media/Mexican_Fiesta.jpg": "/foodWeb/static/media/Mexican_Fiesta.a9bc436befa8c31ef680.jpg",
+    "static/media/Ultimate_Tandoori_Veggie.jpg": "/foodWeb/static/media/Ultimate_Tandoori_Veggie.281fdadd306db9d8ca51.jpg",
+    "static/media/Mazedar_Makhni_Paneer.jpg": "/foodWeb/static/media/Mazedar_Makhni_Paneer.bcbc438c885a235127b3.jpg",
+    "static/media/Chessy_Mushroom_Magic.jpg": "/foodWeb/static/media/Chessy_Mushroom_Magic.56615a0ff96e372c43af.jpg",
+    "static/media/Awesome_American_Cheesy.jpg": "/foodWeb/static/media/Awesome_American_Cheesy.72a602559d0fe8270001.jpg",
+    "static/media/Veggie_Supreme.jpg": "/foodWeb/static/media/Veggie_Supreme.0ef400c998ebd75d8219.jpg",
+    "static/media/Margherita.jpg": "/foodWeb/static/media/Margherita.f42e8bec7bcad988b314.jpg",
+    "static/media/Tandoori_Panner.jpg": "/foodWeb/static/media/Tandoori_Panner.c1af5a309a9a7ce41629.jpg",
+    "static/media/logo.png": "/foodWeb/static/media/logo.0fa131b94a9007b79fed.png",
+    "index.html": "/foodWeb/index.html",
+    "main.42413f63.css.map": "/foodWeb/static/css/main.42413f63.css.map",
+    "main.5f4fade1.js.map": "/foodWeb/static/js/main.5f4fade1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42413f63.css",
+    "static/js/main.5f4fade1.js"
+  ]
+}
